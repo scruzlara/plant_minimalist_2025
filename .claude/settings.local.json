@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xxd /Users/cruzlara5/Test/plant_recognizer_min_2026/ios/Flutter/Release.xcconfig)",
+      "Bash(xxd /Users/cruzlara5/Test/plant_recognizer_min_2026/ios/Flutter/Debug.xcconfig)",
+      "Bash(flutter --version)"
+    ]
+  }
+}
